@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aedbd944-3def-401a-a7b1-bf53adb53970" name="Changes" comment="add __init__.py">
+      <change afterPath="$PROJECT_DIR$/.idea/API_tests_task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/0073efeb-6bf4-431d-8581-159891f966ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/18c1e33c-f4ca-49df-835f-32d4782d3bf2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1a3a4121-6a81-40c3-9223-975a3364e35d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22f9bb20-f369-486a-b5d3-b55fe43ad0af-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/3469871d-f44e-42cc-ab59-1133858a83c5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/3e43c78d-ab4b-461a-b402-7f34b9c15f0d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/655ee2f0-09be-4552-b910-0a0ec3e0ab1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/698ac807-3c5d-457c-b38c-ab7b59c08c78-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/6da8bada-a0a0-4804-8b18-9f3194962add-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/9a276b98-4f70-4c1c-a252-a7472d259653-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/a359f6f6-ba0b-4799-9bd1-40cd1aa4d3de-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/b6c3c6e1-9c70-4173-9dc7-f45219776b44-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/b7588339-7395-4e98-9c8b-16ed93e30eb0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/b78181cb-4a6a-4d9b-b48c-a1c853efbb58-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/e103b161-9f34-4954-890d-05b5f87c7d43-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/e70f134b-7e62-4d6c-b285-c98e4a7711ff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/e786d8c7-e4ac-4fce-83e0-80d70cfe7bb7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/ea9e7007-fb0e-4762-824f-da3ff59dcbc9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/fc209cbb-41f1-45bc-98d4-9dfa27d23649-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="394YJCMB7j527pserU6I6CYSBq3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_auth.py.executor": "Run",
+    "Python tests.Python tests in test_items.py.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.constant.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aedbd944-3def-401a-a7b1-bf53adb53970" name="Changes" comment="" />
+      <created>1769956736140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769956736140</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add pytest config">
+      <option name="closed" value="true" />
+      <created>1770254018596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770254018596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add __init__.py">
+      <option name="closed" value="true" />
+      <created>1770254089335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770254089335</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add pytest config" />
+    <MESSAGE value="add __init__.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add __init__.py" />
+  </component>
+</project>

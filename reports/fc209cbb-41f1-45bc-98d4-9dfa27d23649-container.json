@@ -1,0 +1,1 @@
+{"uuid": "7d6b0a4e-b14d-4dc8-b275-92e07b8c1d76", "children": ["eeb56ff3-f1f9-484e-9ba3-8202937e1452"], "befores": [{"name": "item_data", "status": "passed", "steps": [{"name": "Генерация данных для элемента", "status": "passed", "start": 1770277927718, "stop": 1770277927718}], "start": 1770277927718, "stop": 1770277927718}], "start": 1770277927718, "stop": 1770277927778}
